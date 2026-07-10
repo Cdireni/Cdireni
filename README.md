@@ -4,7 +4,7 @@ Técnico Superior en Ciencia de Datos e Inteligencia Artificial, Docente de Info
 
 ## 🚀 Sobre mí:
 - 🎓 Recientemente graduado del Instituto Superior Politécnico de Córdoba (ISPC).
-- 🛠️ Desarrollé **S.I.M.A.**, un sistema inteligente de monitoreo ambiental con modelos predictivos climáticos.
+- 🛠️ Me encuentro en desarrollo de **S.I.M.A.**, un sistema inteligente de monitoreo ambiental con modelos predictivos climáticos.
 - 🏫 Cuento con más de 10 años de experiencia en la docencia tecnológica y alfabetización digital.
 - 📚 Cursé el trayecto avanzado de la Licenciatura en Comunicación Social (UNC), lo que potencia mi enfoque en análisis de información y narrativa de datos.
 
