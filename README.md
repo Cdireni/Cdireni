@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Carlos Germán Direni 👋
 
-<!--
-**Cdireni/Cdireni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico Superior en Ciencia de Datos e Inteligencia Artificial, Docente de Informática y apasionado por el Data Storytelling. Combino la rigurosidad técnica de los modelos analíticos con herramientas pedagógicas y de comunicación para traducir datos complejos en soluciones reales y accesibles.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí:
+- 🎓 Recientemente graduado del Instituto Superior Politécnico de Córdoba (ISPC).
+- 🛠️ Desarrollé **S.I.M.A.**, un sistema inteligente de monitoreo ambiental con modelos predictivos climáticos.
+- 🏫 Cuento con más de 10 años de experiencia en la docencia tecnológica y alfabetización digital.
+- 📚 Cursé el trayecto avanzado de la Licenciatura en Comunicación Social (UNC), lo que potencia mi enfoque en análisis de información y narrativa de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas:
+- **Lenguajes & Datos:** Python, SQL, Pandas, NumPy, Scikit-learn
+- **Especialidades:** Machine Learning, Análisis Exploratorio de Datos (EDA), Ingeniería de Prompts
+- **Visualización & Despliegue:** Streamlit, Microsoft Excel (Avanzado)
+
+## 📁 Proyectos Destacados:
+- [S.I.M.A. - Monitoreo Ambiental](enlace-a-tu-repo-aca): Estación meteorológica inteligente y analítica predictiva.
