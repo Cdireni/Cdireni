@@ -1,17 +1,94 @@
-# ¡Hola! Soy Carlos Germán Direni 👋
+<!-- ═══════════════ CABECERA (banner animado) ═══════════════ -->
+<div align="center">
 
-Técnico Superior en Ciencia de Datos e Inteligencia Artificial, Docente de Informática y apasionado por el Data Storytelling. Combino la rigurosidad técnica de los modelos analíticos con herramientas pedagógicas y de comunicación para traducir datos complejos en soluciones reales y accesibles.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Carlos%20Direni&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciencia%20de%20Datos%20%7C%20IA%20%7C%20Docencia%20Tecnol%C3%B3gica&descAlignY=58&descSize=18" alt="Banner" width="100%"/>
 
-## 🚀 Sobre mí:
-- 🎓 Recientemente graduado del Instituto Superior Politécnico de Córdoba (ISPC).
-- 🛠️ Me encuentro en desarrollo de **S.I.M.A.**, un sistema inteligente de monitoreo ambiental con modelos predictivos climáticos.
-- 🏫 Cuento con más de 10 años de experiencia en la docencia tecnológica y alfabetización digital.
-- 📚 Cursé el trayecto avanzado de la Licenciatura en Comunicación Social (UNC), lo que potencia mi enfoque en análisis de información y narrativa de datos.
+<!-- Texto que se "escribe" solo -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=Técnico+Superior+en+Ciencia+de+Datos+e+IA;Docente+de+Informática+%7C+10%2B+años+de+experiencia;Apasionado+por+el+Data+Storytelling;Construyendo+S.I.M.A.+%F0%9F%8C%A6%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-## 🛠️ Tecnologías y Herramientas:
-- **Lenguajes & Datos:** Python, SQL, Pandas, NumPy, Scikit-learn
-- **Especialidades:** Machine Learning, Análisis Exploratorio de Datos (EDA), Ingeniería de Prompts
-- **Visualización & Despliegue:** Streamlit, Microsoft Excel (Avanzado)
+<br/>
 
-## 📁 Proyectos Destacados:
-- [S.I.M.A. - Monitoreo Ambiental](enlace-a-tu-repo-aca): Estación meteorológica inteligente y analítica predictiva.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Direni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-direni-5a165ab)
+[![GitHub](https://img.shields.io/badge/GitHub-Cdireni-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cdireni)
+![Ubicación](https://img.shields.io/badge/📍_Córdoba-Argentina-2c5364?style=for-the-badge)
+
+</div>
+
+---
+
+## 👋 Sobre mí
+
+Combino la **rigurosidad técnica** de los modelos analíticos con **herramientas pedagógicas y de comunicación** para traducir datos complejos en soluciones reales y accesibles.
+
+| | |
+|---|---|
+| 🎓 **Formación** | Técnico Superior en Ciencia de Datos e IA — *ISPC, Córdoba* |
+| 📚 **Estudios previos** | Trayecto avanzado de la Lic. en Comunicación Social — *UNC* |
+| 🏫 **Experiencia** | +10 años en docencia tecnológica y alfabetización digital |
+| 🛠️ **Ahora trabajando en** | **S.I.M.A.** — monitoreo ambiental con modelos predictivos climáticos |
+| 🌱 **Aprendiendo** | Git y GitHub avanzado, despliegue de modelos, MLOps |
+
+---
+
+## 🧰 Stack tecnológico
+
+**Lenguajes y datos**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Visualización y despliegue**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Especialidades:** Machine Learning · Análisis Exploratorio de Datos (EDA) · Ingeniería de Prompts · Data Storytelling
+
+---
+
+## 🚀 Proyecto destacado
+
+<div align="center">
+
+<a href="https://github.com/Cdireni/sima-monitoreo-ambiental">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cdireni&repo=sima-monitoreo-ambiental&theme=tokyonight&hide_border=true" alt="S.I.M.A." />
+</a>
+
+</div>
+
+**S.I.M.A.** es un Sistema Inteligente de Monitoreo Ambiental: una estación meteorológica con analítica predictiva, desarrollada como Proyecto Integrador de Ciencia de Datos (módulo de Machine Learning).
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cdireni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cdireni&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
+
+</div>
+
+---
+
+## 📫 Contacto
+
+¿Te interesa colaborar, tenés una idea de proyecto con datos o querés hablar de educación y tecnología? Escribime por [LinkedIn](https://www.linkedin.com/in/carlos-direni-5a165ab).
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
